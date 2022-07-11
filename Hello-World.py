@@ -24,7 +24,7 @@ else:
     {
         print("Damn")   
     }
-#python function    
+#python function     
 def newFunction():
     print("Hello World")
 newFunction()
